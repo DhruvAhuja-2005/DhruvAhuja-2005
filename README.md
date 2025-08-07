@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a Learner Exploring & Learning Various Technology Stacks 
+- 🔭 I’m currently a Learner Exploring & Learning Various Tech Stacks 
 - 📫 Connect with me : 
      Linkedln Profile : www.linkedin.com/in/dhruv-ahuja1
 [![An image of @dhruvahuja2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvahuja2005)](https://holopin.io/@dhruvahuja2005)
